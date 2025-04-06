@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Cyber-Rebel-Gourab
+# H2S Project
 =======
 # Getting Started with Create React App
 
